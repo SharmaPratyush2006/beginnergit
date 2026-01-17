@@ -1,3 +1,4 @@
 # beginnergit
 for learning git
-author:Pratyush Sharma
+<br>
+Author:Pratyush Sharma
